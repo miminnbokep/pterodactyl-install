@@ -28,10 +28,10 @@ Dibuat oleh **Gurita Darat**
 
 ```bash
 # Download dan install panel
-curl -sSL https://raw.githubusercontent.com/username/repository/main/install.sh | bash -s -- --install-panel --panel-url https://panel.domain.com
+curl -sSL https://raw.githubusercontent.com/miminnbokep/pterodactyl-install/main/install.sh | bash -s -- --install-panel --panel-url https://panel.domain.com
 
 # Download dan install wings
-curl -sSL https://raw.githubusercontent.com/username/repository/main/install.sh | bash -s -- --install-wings
+curl -sSL https://raw.githubusercontent.com/miminnbokep/pterodactyl-install/main/install.sh | bash -s -- --install-wings
 
 # Install tema
-curl -sSL https://raw.githubusercontent.com/username/repository/main/install.sh | bash -s -- --install-theme --theme-repo https://github.com/user/theme-repo
+curl -sSL https://raw.githubusercontent.com/miminnbokep/pterodactyl-install/main/install.sh | bash -s -- --install-theme --theme-repo https://github.com/user/theme-repo
